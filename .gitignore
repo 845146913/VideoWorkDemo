@@ -3,3 +3,22 @@
 ################################################################################
 
 /VideoWorkDemo/bin/Debug
+/VideoWorkDemo/bin/Release
+/VideoWorkDemo/obj/Debug/VideoWorkDemo.exe
+/VideoWorkDemo/obj/Debug/VideoWorkDemo.pdb
+*.resources
+/VideoWorkDemo/obj/Debug/VideoWorkDemo.csprojAssemblyReference.cache
+/VideoWorkDemo/obj/Debug/VideoWorkDemo.csproj.GenerateResource.cache
+/VideoWorkDemo/obj/Debug/VideoWorkDemo.csproj.FileListAbsolute.txt
+/VideoWorkDemo/obj/Debug/VideoWorkDemo.csproj.CoreCompileInputs.cache
+/VideoWorkDemo/obj/Debug/VideoWorkDemo.csproj.CopyComplete
+/VideoWorkDemo/obj/Release/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+/VideoWorkDemo/obj/Release/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+/VideoWorkDemo/obj/Release/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+/VideoWorkDemo/obj/Release/VideoWorkDemo.csproj.CoreCompileInputs.cache
+/VideoWorkDemo/obj/Release/VideoWorkDemo.csproj.FileListAbsolute.txt
+/VideoWorkDemo/obj/Release/VideoWorkDemo.csproj.GenerateResource.cache
+/VideoWorkDemo/obj/Release/VideoWorkDemo.exe
+/VideoWorkDemo/obj/Release/VideoWorkDemo.pdb
+/.vs/VideoWorkDemo/v15/Server/sqlite3
+/.vs/VideoWorkDemo/v15
